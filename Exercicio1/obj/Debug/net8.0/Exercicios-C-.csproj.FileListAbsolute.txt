@@ -1,0 +1,15 @@
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.AssemblyInfoInputs.cache
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.AssemblyInfo.cs
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.csproj.CoreCompileInputs.cache
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.sourcelink.json
+/workspaces/Exercicios-C-/bin/Debug/net8.0/Exercicios-C-
+/workspaces/Exercicios-C-/bin/Debug/net8.0/Exercicios-C-.deps.json
+/workspaces/Exercicios-C-/bin/Debug/net8.0/Exercicios-C-.runtimeconfig.json
+/workspaces/Exercicios-C-/bin/Debug/net8.0/Exercicios-C-.dll
+/workspaces/Exercicios-C-/bin/Debug/net8.0/Exercicios-C-.pdb
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.dll
+/workspaces/Exercicios-C-/obj/Debug/net8.0/refint/Exercicios-C-.dll
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.pdb
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.genruntimeconfig.cache
+/workspaces/Exercicios-C-/obj/Debug/net8.0/ref/Exercicios-C-.dll
