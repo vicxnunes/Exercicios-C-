@@ -1,0 +1,5 @@
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.AssemblyInfoInputs.cache
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.AssemblyInfo.cs
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.csproj.CoreCompileInputs.cache
+/workspaces/Exercicios-C-/obj/Debug/net8.0/Exercicios-C-.sourcelink.json
